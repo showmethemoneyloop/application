@@ -1,0 +1,17 @@
+body{background-color:#F0F8FF}
+
+#title{
+    text-align:center;
+    font-weight:bold;
+    font-size:24px;
+    background-color:#4169E1;
+    padding:2px;
+    font-family:Microsoft JhengHei;
+}
+
+.question{
+    font-weight:bold;
+    font-size:18px;
+    font-family:Microsoft JhengHei;
+    margin-bottom:10px;
+}
